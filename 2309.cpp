@@ -10,6 +10,7 @@ pair<int, int> solve(int arr[]) {
       }
     }
   }
+  return {0, 0};
 }
 
 int main() {
